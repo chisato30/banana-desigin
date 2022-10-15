@@ -1,7 +1,7 @@
 .top-head{
     height: 300px;
     width: 100%;
-    background-color: url(img.top.png);
+    background: url(img/top.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
