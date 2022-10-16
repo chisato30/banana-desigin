@@ -139,6 +139,8 @@
   .box-content{
     padding: 20px;
     height: 250px;
+    overflow: scroll;
+
   }
 
   .box-content ul li .date{
