@@ -29,3 +29,41 @@
     width: 700px;
     margin-left: 40px;
  }
+
+  /*---------------------------------------------
+                     box
+ ---------------------------------------------*/
+ .box-large.service .box-content{
+    height: auto;
+    overflow: initial;
+  }
+
+  .service .box-content{
+    padding: 20px 28px 35px;
+  }
+
+  .service .box-content h3{
+    color:  #95c530;
+    border-bottom: 1px dashed  #95c530;
+    padding-bottom: 5px;
+  }
+
+  .media{
+    margin: 20px 0px;
+  }
+
+  .media, .media-content{
+    overflow: hidden;
+    zoom: 1;
+  }
+
+  .media .image{
+    float: left;
+    margin-right: 30px;
+    width: 200px;
+  }
+
+  .media .image img{
+    border: none;
+    width: 100%;
+  }
